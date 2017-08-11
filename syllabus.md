@@ -16,7 +16,7 @@ Class Times:
  
 **Location:** KEC119
 
-**Webpage:**  [http://ycpcs.github.io/cs100-fall2016/](http://ycpcs.github.io/cs100-fall2017/)
+**Webpage:**  [http://ycpcs.github.io/cs100-fall2017/](http://ycpcs.github.io/cs100-fall2017/)
 
 **Instructors**
 
