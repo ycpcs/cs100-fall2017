@@ -24,7 +24,7 @@ Class Times:
 **Email:** <dbabcock@ycp.edu><br>
 **Office:** KEC 101<br>
 **Phone:** (717) 815-6442<br>
-**Office Hours:** TBD; or by appointment
+**Office Hours:** M 1-3PM, T 10-11AM, W 2-3PM, R 9-10AM, F 9-10AM; or by appointment
 
 >[Don Hake](http://faculty.ycp.edu/~djhake2/)<br>
 **Email:** <djhake2@ycp.edu><br>
