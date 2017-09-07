@@ -6,6 +6,10 @@ title: Lab Activities
 
 This page links to lab activities.
 
+> Lab Activity                                                                           |     Date    |
+> -------------------------------------------------------------------------------------- | ----------- |
+> [Lab Activity 1: Square Strategy](CPADS_Lab1.pdf)                                      | **Sept 13** |
+
 
 <!--
 > Lab Activity                                                                           |     Date    |
