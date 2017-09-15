@@ -10,3 +10,7 @@ This page contains links to useful resources.
 
  - Online Python text.  Great for learning Python! <br>
    [Think Python](http://greenteapress.com/thinkpython/thinkpython.html)
+
+ - [Python](https://www.python.org). Select **Downloads** and choose **Python 3.x.x** (whatever the most recent version is).
+ 
+ - Download [PyCharm Community Edition](http://www.jetbrains.com/pycharm/)
