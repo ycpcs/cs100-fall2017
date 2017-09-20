@@ -9,7 +9,7 @@ This page links to assignments.
 
 > Assignment                                                                             |     Due     |
 > -------------------------------------------------------------------------------------- | ----------- |
-> [Assignment 1: Computed Pinwheel](CPADS_Assign1.pdf)                                   | **Sept 27** |
+> [Assignment 1: Computed Pinwheel](CPADS_Assign1.pdf)                                   | **Sept 29** |
 
 <!--
 > [Assignment 2: Pyramid](CPADS_Assign2.pdf)  <br> [drawPyramidWithSquares Solution](cs100_assign02_drawPyramidWithSquares_solution.py) <br> [drawPyramidWithEquiTriangles Solution](cs100_assign02_drawPyramidWithEquiTriangles_solution.py)   | **Oct 12** |
