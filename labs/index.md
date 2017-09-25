@@ -10,8 +10,8 @@ This page links to lab activities.
 > -------------------------------------------------------------------------------------- | ----------- |
 > [Lab Activity 1: Square Strategy](CPADS_Lab1.pdf)                                      | **Sept 13** |
 > [Lab Activity 2: Pinwheel Strategy](CPADS_Lab2.pdf)                                    | **Sept 15** |
-> [Lab Activity 3: Pinwheel Implementation](CPADS_Lab3.pdf)                              | **Sept 20** |
-> [Lab Activity 4: Pinwheel Computation](CPADS_Lab4.pdf)                                 | **Sept 25** |
+> [Lab Activity 3: Pinwheel Implementation](CPADS_Lab3.pdf)                              | **Sept 22** |
+> [Lab Activity 4: Layer Cake Computation](CPADS_Lab4.pdf)                               | **Sept 27** |
 
 
 <!--
