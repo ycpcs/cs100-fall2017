@@ -12,6 +12,7 @@ This page links to lab activities.
 > [Lab Activity 2: Pinwheel Strategy](CPADS_Lab2.pdf)                                    | **Sept 15** |
 > [Lab Activity 3: Pinwheel Implementation](CPADS_Lab3.pdf)                              | **Sept 22** |
 > [Lab Activity 4: Layer Cake Computation](CPADS_Lab4.pdf)                               | **Sept 27** |
+> [Exam 1 Review: Diamond](CPADS_Exam1Review.pdf)                                        | **Oct 2**   |
 
 
 <!--
