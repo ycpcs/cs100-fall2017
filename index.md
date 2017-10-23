@@ -30,6 +30,7 @@ All information about the course will be posted here.
 * **Oct 16 - NO CLASS (Fall Break)**
 * **Oct 20** - [Lab Activity 5](labs/CPADS_Lab5.pdf) due
 * **Oct 23** - [Lab Activity 6](labs/CPADS_Lab6.pdf) due
+* **Oct 25** - [Lab Activity 7](labs/CPADS_Lab7.pdf) due
 
 <!--
 * **Sept 28** - [Assignment 1](assign/CPADS_Assign1.pdf) due
