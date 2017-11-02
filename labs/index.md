@@ -17,6 +17,7 @@ This page links to lab activities.
 > [Lab Activity 6: Loop Exercises](CPADS_Lab6.pdf)                                       | **Oct 23** |
 > [Lab Activity 7: Pyramid Strategy](CPADS_Lab7.pdf)                                     | **Oct 25** |
 > [Lab Activity 8: Decisions](CPADS_Lab8.pdf)                                            | **Nov 3**  |
+> [Lab Activity 9: Conditional Iteration](CPADS_Lab9.pdf)                                | **Nov 6**  |
 
 
 <!--
