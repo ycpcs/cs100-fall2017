@@ -34,7 +34,7 @@ All information about the course will be posted here.
 * **Oct 30** - [Assignment 2](assign/CPADS_Assign2.pdf) due
 * **Nov 3** -  [Lab Activity 8](labs/CPADS_Lab8.pdf) due
 * **Nov 6** -  [Lab Activity 9](labs/CPADS_Lab9.pdf) due
-* **Nov 10** - [Assignment 2](assign/CPADS_Assign3.pdf) due
+* **Nov 10** - [Assignment 3](assign/CPADS_Assign3.pdf) due
 * **Nov 13, 15 - EXAM II**
 
 <!--
