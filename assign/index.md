@@ -12,6 +12,7 @@ This page links to assignments.
 > [Assignment 1: Computed Pinwheel](CPADS_Assign1.pdf)                                   | **Sept 29** |
 > [Assignment 2: Triangles (Functions and Loops)](CPADS_Assign2.pdf) <br /> [triangles.py](src/triangles.py)                                                         | **Oct 30**  |
 > [Assignment 3: Turtle Game (Decisions and While Loops)](CPADS_Assign3.pdf) <br /> [turtlegame.py](src/turtlegame.py)                                                       | **Nov 10**  |
+> [Assignment 3: Turtle Game (Strategy Solutions)](CPADS_Assign3-strategies-solution.pdf) <br /> [Programming Solution Python file](src/turtlegame-solution.py)                                                 |             |
 
 <!--
 > [Assignment 2: Pyramid](CPADS_Assign2.pdf)  <br> [drawPyramidWithSquares Solution](cs100_assign02_drawPyramidWithSquares_solution.py) <br> [drawPyramidWithEquiTriangles Solution](cs100_assign02_drawPyramidWithEquiTriangles_solution.py)   | **Oct 12** |
