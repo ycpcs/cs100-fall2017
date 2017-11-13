@@ -390,6 +390,11 @@ def main():
 
             # reset distance for next move
             distance = 0
+
+            # get the new heading for the next move
+            # and set the turtle to the new heading
+            bob.setheading(getNewHeading(bob))
+
 # TODO 10: add the elif condition that checks if a collision was detected
 # TODO 10:    count the collisions
 # TODO 10:    check for too many collisions and tell the user if that has occurred
@@ -398,7 +403,7 @@ def main():
 # TODO 10:       prompt the user for a new heading (already provided)
 # TODO 10:       get the new heading from the user
         # otherwise, turtle must have collided with an obstacle
-        elif collision:
+        else:
             # count collisions
             collisions += 1
 
@@ -407,20 +412,17 @@ def main():
                 # inform user
                 print("You have collided with too many objects")
             else:
-                print("You collided with an obstacle (collisions =", collisions, ") - enter new heading: ")
+                print("You collided with an obstacle (collisions =", collisions, "/", maxCollisions, ") - enter new heading: ")
                 collision = False
 
                 # back off 1 pixel from the obstacle
                 bob.back(1)
 
-        # if turtle has not yet hit too many obstacles
-        if collisions <= maxCollisions:
-            # get the new heading for the next move
-            bob.setheading(getNewHeading(bob))
-        else:
-            print("Thanks for playing")
+                # get the new heading for the next move
+                # and set the turtle to the new heading
+                bob.setheading(getNewHeading(bob))
 
-    input("Press any key to exit")
+    input("Thanks for playing - press any key to exit")
 
 main()
 
