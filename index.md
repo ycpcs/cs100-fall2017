@@ -36,6 +36,8 @@ All information about the course will be posted here.
 * **Nov 6** -  [Lab Activity 9](labs/CPADS_Lab9.pdf) due
 * **Nov 10** - [Assignment 3](assign/CPADS_Assign3.pdf) due
 * **Nov 13, 15 - EXAM II**
+* **Nov 20** - [Final Project Proposals](assign/CPADS_FinalProject.pdf) due in class
+* **Nov 20** - [Turtle Game Project Description](assign/CPADS_TurtleGameProject.pdf) has been posted
 
 <!--
 * **Sept 28** - [Assignment 1](assign/CPADS_Assign1.pdf) due
